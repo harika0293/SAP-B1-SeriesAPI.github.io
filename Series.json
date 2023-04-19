@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "series": 1,
+        "seriesName": "PRD2224"
+    },
+    {
+        "id": 2,
+        "series": 2,
+        "seriesName": "GRN2225"
+    },
+    {
+        "id": 3,
+        "series": 3,
+        "seriesName": "ITRM2226"
+    },
+    {
+        "id": 4,
+        "series": 4,
+        "seriesName": "ITR2227"
+    },
+    {
+        "id": 5,
+        "series": 5,
+        "seriesName": "ITR2328"
+    }
+]
